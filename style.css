@@ -1,0 +1,42 @@
+.heading
+{
+font-size: 23px;
+width: 100%;
+margin: 0px;
+}
+#input_1
+{
+    width:500px;
+}
+h2{
+    font-size:15px;
+    margin-top:0px;
+    width:100%;
+    color:black;
+}
+#object_name
+{
+    font-size: 20px;
+}
+#status
+{
+font-size: 20px;
+}
+body{
+    background-size:cover;
+    background-position:center;
+}
+canvas{
+    box-shadow: 10px 10px 10px grey ;
+    border-radius:10px;
+    border: 5px grey solid;
+    margin-top: 150px;
+}
+#start{
+    margin-top:0px;
+    font-size:20px;
+}
+.note{
+    font-size:18px;
+    color:black;
+}
